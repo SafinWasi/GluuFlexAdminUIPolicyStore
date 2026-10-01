@@ -16,8 +16,6 @@ namespace Gluu::Flex::AdminUI {
     protocol: String
   };
 
-  type abcdef = __cedar::String;
-
   type email_address = {
     domain: String,
     uid: String
